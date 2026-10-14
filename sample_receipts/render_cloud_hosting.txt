@@ -1,0 +1,12 @@
+Render Services Inc.
+Monthly Cloud Infrastructure Invoice
+Invoice Date: 2026-10-01
+Account: solopreneur-dev
+
+Line Items:
+- Web Service (Standard Instance)     $25.00
+- PostgreSQL Managed Database (Starter) $7.00
+- Bandwidth Overage                     $0.00
+---------------------------------------------
+Total Charged: $32.00 USD
+Payment processed via Stripe.

@@ -1,0 +1,11 @@
+INVOICE #FIG-982341
+Figma, Inc.
+Date: 2026-10-05
+Billed to: Freelance Studio LLC
+
+Items:
+- Figma Professional Monthly Plan (1 Editor)
+Amount: $15.00 USD
+Payment Method: Visa ending in 4092
+Status: Paid
+Total Amount: $15.00
